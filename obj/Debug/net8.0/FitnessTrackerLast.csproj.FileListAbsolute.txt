@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.AssemblyInfo.cs
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\VS\FitnessTrackerLast\bin\Debug\net8.0\FitnessTrackerLast.exe
+C:\Users\A\Desktop\VS\FitnessTrackerLast\bin\Debug\net8.0\FitnessTrackerLast.deps.json
+C:\Users\A\Desktop\VS\FitnessTrackerLast\bin\Debug\net8.0\FitnessTrackerLast.runtimeconfig.json
+C:\Users\A\Desktop\VS\FitnessTrackerLast\bin\Debug\net8.0\FitnessTrackerLast.dll
+C:\Users\A\Desktop\VS\FitnessTrackerLast\bin\Debug\net8.0\FitnessTrackerLast.pdb
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.dll
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\refint\FitnessTrackerLast.dll
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.pdb
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\FitnessTrackerLast.genruntimeconfig.cache
+C:\Users\A\Desktop\VS\FitnessTrackerLast\obj\Debug\net8.0\ref\FitnessTrackerLast.dll
